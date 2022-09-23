@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**nam157/nam157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a AI Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on TDT Asia
+
+🧠 I'm currently learning MCS
+
+
+## 🛠 Skills
+HTML/CSS, Python, Tensorflow, Pytorch,  
+
+
+## Authors
+
+- [@yoto](https://www.github.com/nam157)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-nguyen-4346bb202/)
+
