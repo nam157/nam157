@@ -2,8 +2,6 @@
 ## 🚀 About Me
 I'm a AI Engineer
 
-
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on TDT Asia
 
 🧠 I'm currently learning MCS
