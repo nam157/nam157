@@ -2,7 +2,7 @@
 ## 🚀 About Me
 I'm a AI Engineer
 
-👩‍💻 I'm currently working on TDT Asia
+👩‍💻 I'm currently working on Dxtech
 
 🧠 I'm currently learning MCS
 
