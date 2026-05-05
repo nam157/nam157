@@ -1,22 +1,65 @@
+# Hi there, I'm Nam Nguyen 👋
 
-## 🚀 About Me
-I'm a AI Engineer
+## AI Product Manager | AI Lead | Software Architect
 
-👩‍💻 I'm currently working on Dxtech
+I am a Software Architect and Technical Lead with a passion for building scalable AI products that bridge the gap between research and real-world impact.
 
-🧠 I'm currently learning MCS
+Currently, I lead a cross-functional team of 20+ engineers focusing on **Agentic AI**, **Computer Vision**, and **Digital Transformation**.
 
+---
 
-## 🛠 Skills
-[![linkedin](https://camo.githubusercontent.com/a00abd8cea4105fa1cad91f7235d11206b492f51afeb9b23a25d04e8f36935e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565)](https://www.linkedin.com/in/nam-nguyen-4346bb202/)
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+## 🛠 Technical Expertise
 
-## Frameworks 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+- **AI/ML & Agents:** RAG, Multi-agent Systems, LangGraph, LLM Orchestration, Computer Vision, Deep Learning
+- **Computer Vision Stack:** NVIDIA DeepStream, TensorRT, GStreamer, Triton Inference Server, FFmpeg
+- **Infrastructure:** Linux, GPU Optimization, Docker, Microservices Architecture, Kubernetes
+- **Databases:** Qdrant, Elasticsearch, PostgreSQL, MongoDB, MinIO, Redis
+- **Backend & Tools:** FastAPI, Node.js, Python, Tailwind CSS, Angular
 
-## 🔗 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-nguyen-4346bb202/)
+---
 
+## 🚀 Featured Projects
+
+### 🤖 Agentic AI & Intelligent RAG
+
+- **Agentic Chatbot Platform:** Directed the development of an autonomous multi-agent system using **LangGraph** for task planning and software-level execution.
+- **Hybrid RAG Architecture:** Designed high-performance retrieval systems using **Qdrant** and **Elasticsearch**.
+- **EBot Chat System:** Implemented dual-retrieval strategies and ReAct workflows on Google Cloud Platform.
+
+### 👁️ High-Performance Computer Vision
+
+- **Camera AI Platform:** Architected a GPU-accelerated video analytics system handling 100+ concurrent RTSP streams with real-time behavior detection and object tracking.
+- **Biometrics & eKYC:** Delivered secure customer onboarding for national credit banks, integrating liveness detection, anti-spoofing, and OCR.
+- **eVision:** Implemented specialized modules for fire detection and human emotion analysis.
+
+### 🏥 Medical AI & Specialized OCR
+
+- **Medical Diagnosis:** Developed computer vision models using **U-Net** and **MONAI** for liver disease classification and lung cancer detection from CT/Ultrasound scans.
+- **AkaOCR:** Built multilingual OCR engines for Japanese and Vietnamese document extraction.
+
+---
+
+## 💼 Management & Leadership
+
+- **Team Leadership:** Lead and mentor engineering teams of 8-23 members through the full software development lifecycle.
+- **Product Strategy:** Manage technical roadmaps, stakeholder communication, and compliance for banking and enterprise security standards.
+- **Branding:** Developing **eCOM**, focusing on digital identity and future-ready AI automation.
+
+---
+
+## 📫 Connect with Me
+
+- **Location:** Hanoi, Vietnam  
+  Planning a stay in Aalborg, Denmark, Q3 2026.
+- **LinkedIn:** [linkedin.com/in/namnh1608](https://linkedin.com/in/namnh1608)
+- **Email:** [namnguyen.ai.researcher@gmail.com](mailto:namnguyen.ai.researcher@gmail.com)
+- **GitHub:** [github.com/nam157](https://github.com/nam157)
+- **Motto:** _"Transforming The Future"_
+
+---
+
+## 🏆 Certifications & Honors
+
+- **Outstanding Employee Award**, DXTech, 2023
+- **Google Data Analytics & Deep Learning Specializations**
+- **Data Science Scholarship**, FPT Digital Processing Services
