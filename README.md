@@ -49,10 +49,9 @@ Currently, I lead a cross-functional team of 20+ engineers focusing on **Agentic
 
 ## 📫 Connect with Me
 
-- **Location:** Hanoi, Vietnam  
-  Planning a stay in Aalborg, Denmark, Q3 2026.
+- **Location:** Aalborg, Denmark.
 - **LinkedIn:** [linkedin.com/in/namnh1608](https://linkedin.com/in/namnh1608)
-- **Email:** [namnguyen.ai.researcher@gmail.com](mailto:namnguyen.ai.researcher@gmail.com)
+- **Email:** [nguyenhoainamhuongkhe2@gmail.com](mailto:nguyenhoainamhuongkhe2@gmail.com)
 - **GitHub:** [github.com/nam157](https://github.com/nam157)
 - **Motto:** _"Transforming The Future"_
 
